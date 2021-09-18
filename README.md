@@ -1,6 +1,6 @@
 # Orientation
 
-A new Flutter project.
+This is a flutter app for showing the concept of Flutter orientations using a simple web interface.
 
 ## Getting Started
 
